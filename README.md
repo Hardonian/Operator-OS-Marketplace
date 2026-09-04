@@ -1,5 +1,9 @@
 # Operator OS — Self-Hosted Revenue Operations Platform
 
+<!-- BEGIN: REPO HERO -->
+![Operator-OS-Marketplace — hero generated locally on the GPU stack](assets/repo-hero.png)
+<!-- END: REPO HERO -->
+
 Operator OS is a self-hosted founder/operator cockpit: SQLite-backed metrics, plain-English command-center views, and deterministic JSON APIs for external connectors.
 
 Live local docs: `/mnt/c/Users/scott/Desktop/startup_ops_console/`
